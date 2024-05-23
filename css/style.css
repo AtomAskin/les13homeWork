@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.container{
+	background-color: grey;
+	margin: 0 auto;
+	width: 800px;
+}
+
+
+p{
+	background-color: black;
+	color: white;
+
+}
+
+.p1{
+	margin-bottom: 40px;
+}
