@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+}
+
+.img{
+	width: 100%;
+}
+
+
+.container{
+	width: 800px;
+	margin: 0 auto;
+}
+
+
+
+.menu{
+	margin: 0 auto;
+	background-color: yellow ;
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+}
+
+
+h1{
+	margin-top: 30px;
+	margin-left: -60px;
+}
+
+.p1{
+	margin-bottom: 20px;
+}
+
+.p2{
+
+}
+
+.img2{
+	width: 300px;
+}
